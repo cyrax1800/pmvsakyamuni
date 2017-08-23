@@ -1,0 +1,10 @@
+@import "node_modules/bulma/sass/utilities/_all.sass";
+
+.footer-info{
+  display: flex;
+  justify-content: flex-end;
+
+  @include touch() {
+    justify-content: center !important;
+  };
+}

@@ -1,0 +1,7 @@
+/*.nav { position: fixed !important; top: 0; left: 0; right: 0; }*/
+
+.btn-transparent{
+  background-color:transparent;
+  color:#ac0000;
+  border-color: transparent;
+}
