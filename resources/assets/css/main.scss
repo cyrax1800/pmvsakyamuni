@@ -1,10 +1,21 @@
+@import "node_modules/bulma/sass/utilities/initial-variables.sass";
+
+$pmvColor: #ac0000;
+
+$primary: $pmvColor;
+
 @import "node_modules/bulma/sass/utilities/_all.sass";
 
+@import "node_modules/bulma/bulma.sass";
+
 .footer-info{
-  display: flex;
-  justify-content: flex-end;
+  justify-content: flex-end !important;
 
   @include touch() {
     justify-content: center !important;
   };
+}
+
+.v-center{
+	align-items: center;
 }

@@ -21,12 +21,12 @@
     <br>
     <footer class="footer">
       <div class="container">
-        <div class="columns">
+        <div class="columns v-center">
           <div class="column has-text-centered-mobile">
             PMV Sakyamuni © 2017. <a href="" title="">Privacy Policy</a>
           </div>
           <div class="column">
-            <div class="field is-grouped footer-info">
+            <div class="field is-grouped footer-info v-center">
               <p class="">follow us:</p>
               <p class="control">
                 <a class="button btn-transparent" href="">
