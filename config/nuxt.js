@@ -44,11 +44,11 @@ module.exports = {
   /*
   ** Point to resources
   */
-  srcDir: resolve(__dirname, '..', 'resources'),
+  srcDir: resolve(__dirname, '..', 'resources')
 
 
   /**
   *  Plugins
   */
-  plugins: ['~/plugins/vue-carousel']
+  // plugins: ['~/plugins/vue-carousel']
 }

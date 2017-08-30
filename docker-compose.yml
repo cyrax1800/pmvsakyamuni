@@ -1,0 +1,11 @@
+version: '2'
+services:
+  web:
+    container_name: web
+    environment:
+      NODE_ENV: production
+    image: "nipeharefa/adonis-docker"
+    volumes:
+      - ./:/usr/src/app
+    ports:
+      - 3000:3000
