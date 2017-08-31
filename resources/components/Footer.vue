@@ -3,43 +3,36 @@
     <hr>
     <section class="section">
       <div class="container">
-        <h1 class="title">
-          Contact Us
-        </h1>
-        <br>
-        <p>Jacky - 08123456789</p><br>
-        <p>
-          Jl. Metal II No.12 / 76, 
-          Tanjung Mulia – Medan 20241
-        </p><br>
-        <p><strong>Email: </strong> pmvsakyamuni@gmail.com</p>
-        <br>
-        <a class="button is-info " href=""><span>Get In Touch</span></a>
+        <div class="columns">
+          <div class="column is-half">
+            <!-- Map is Here -->        
+          </div>
+          <hr>
+          <div class="column is-one-third">
+            <h1 class="title">Get In Touch</h1>
+            <p><span class="icon"><i class="fa fa-map-marker"></i></span>Jl. Metal II No.12 / 76, Tanjung Mulia – Medan 20241</p>
+            <br>
+            <p><span class="icon"><i class="fa fa-phone"></i></span> Jacky - 08123456789</p><br>
+            <p><span class="icon"><i class="fa fa-envelope-o"></i></span> pmvsakyamuni@gmail.com</p>
+          </div>
+          <hr>
+          <div class="column is-one-quarter">
+            <h1 class="title">Find Us</h1>
+            <p class="pmv-social-icons">
+              <a href=""><span class="icon is-large pmv-icon-social"><i class="fa fa-facebook-official"></i></span></a>
+              <a href=""><span class="icon is-large pmv-icon-social"><i class="fa fa-instagram"></i></span></a>
+            </p>
+          </div>
+        </div>
       </div>
     </section>
-    
-    <br>
-    <footer class="footer">
+
+    <footer class="pmv-footer">
       <div class="container">
-        <div class="columns v-center">
-          <div class="column has-text-centered-mobile">
+        <div class="columns">
+          <div class="column has-text-centered">
             PMV Sakyamuni © 2017. <a href="" title="">Privacy Policy</a>
           </div>
-          <div class="column">
-            <div class="field is-grouped footer-info v-center">
-              <p class="">follow us:</p>
-              <p class="control">
-                <a class="button btn-transparent" href="">
-                  <span class="icon"><i class="fa fa-facebook-official"></i></span>
-                </a>
-              </p>
-              <p class="control">
-                <a class="button btn-transparent" href="">
-                  <span class="icon"><i class="fa fa-instagram"></i></span>
-                </a>
-              </p>
-            </div>
-          </div>  
         </div>
       </div>
     </footer>  

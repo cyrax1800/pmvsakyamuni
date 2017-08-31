@@ -17,5 +17,10 @@ $primary: $pmvColor;
 }
 
 .v-center{
-	align-items: center;
+  align-items: center;
+  float: none !important;
+  margin-top: auto !important;
+  margin-bottom: auto !important;
+  padding-top: auto !important;
+  padding-bottom: auto !important;
 }

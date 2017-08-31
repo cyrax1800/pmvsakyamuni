@@ -18,21 +18,26 @@
       </div>
     </section>
     <section class="section">
-      <div class="container">
-        <h1 class="title">Section</h1>
-        <h2 class="subtitle">
-          A simple container to divide your page into <strong>sections</strong>, like the one you're currently reading
-        </h2>
-      </div>
+      <next-event :eventData="nextEvent"></next-event>
     </section>
   </div>
 </template>
 
 <script>
   import MyNavbar from '~/components/Navbar.vue'
+  import NextEvent from '~/components/home/NextEvent.vue'
   export default {
     components: {
-      MyNavbar
+      MyNavbar,
+      NextEvent
+    },
+    data (){
+      return {
+        nextEvent: {
+          date : 'September 17, 2017',
+          timeStamp : 1505635200
+        }
+      }
     }
   }
 </script>
