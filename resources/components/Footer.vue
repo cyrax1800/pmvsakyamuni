@@ -16,7 +16,7 @@
             <p><span class="icon"><i class="fa fa-envelope-o"></i></span> pmvsakyamuni@gmail.com</p>
           </div>
           <hr>
-          <div class="column is-one-quarter">
+          <div class="column">
             <h1 class="title">Find Us</h1>
             <p class="pmv-social-icons">
               <a href=""><span class="icon is-large pmv-icon-social"><i class="fa fa-facebook-official"></i></span></a>

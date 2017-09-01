@@ -2,13 +2,14 @@
 
 .pmv-footer{
   background-color: whitesmoke;
+  padding: 1rem 1.5rem;
 }
 
 .pmv-icon-social{
   margin: 0 6px;
 }
 
-.pmv-text {
+/*.pmv-text {
   font-size: 20px;
   font-weight: 40;
   margin-top:10px;
@@ -22,4 +23,4 @@
   font-weight: 48;
   margin: 10px;
   text-align: center;
-}
+}*/

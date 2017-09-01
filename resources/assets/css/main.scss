@@ -8,11 +8,30 @@ $primary: $pmvColor;
 
 @import "node_modules/bulma/bulma.sass";
 
-.footer-info{
-  justify-content: flex-end !important;
+.pmv-text{
+  font-size: 20px;
+  font-weight: 40;
+  margin-top:10px;
+  margin-bottom: 10px;
+  text-align: center;
 
   @include touch() {
-    justify-content: center !important;
+    font-size: 16px;
+    font-weight: 20;
+  };
+}
+
+.pmv-digit{
+  color: #ac0000;
+  font-size: 48px;
+  font-weight: 48;
+  margin: 10px;
+  text-align: center;
+
+  @include touch() {
+    font-size: 36px;
+    font-weight: 36;
+    margin: 2px;
   };
 }
 

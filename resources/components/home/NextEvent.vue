@@ -18,7 +18,7 @@
       <div class="column is-one-quarter v-center">
         <div class="columns is-mobile">
           <div class="column">
-            <p><span class="icon has-text-primary"><i class="fa fa-calendar"></i></span> Minggu, 17 September 2018</p>
+            <p><span class="icon has-text-primary"><i class="fa fa-calendar"></i></span> Minggu, 17 September 2017</p>
             <p><span class="icon has-text-primary"><i class="fa fa-clock-o"></i></span> 15.00 WIB - Selesai</p>
             <p><span class="icon has-text-primary"><i class="fa fa-map-marker"></i></span> Jl. Metal II No.12 / 76, Tanjung Mulia – Medan 20241</p>
           </div>
