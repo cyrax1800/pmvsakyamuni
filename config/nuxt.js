@@ -50,5 +50,5 @@ module.exports = {
   /**
   *  Plugins
   */
-  plugins: ['~/plugins/vue-carousel', '~/plugins/filters']
+  plugins: [{src:'~/plugins/vue-carousel', ssr: false}, '~/plugins/filters']
 }

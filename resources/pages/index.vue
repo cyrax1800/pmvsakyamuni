@@ -20,16 +20,23 @@
     <section class="section">
       <next-event :eventData="nextEvent"></next-event>
     </section>
+    <hr class="pmv-hr-line"/>
+    <section class="section">
+      <more-event></more-event>
+    </section>
   </div>
 </template>
 
 <script>
   import MyNavbar from '~/components/Navbar.vue'
   import NextEvent from '~/components/home/NextEvent.vue'
+  import MoreEvent from '~/components/home/MoreEvent.vue'
+
   export default {
     components: {
       MyNavbar,
-      NextEvent
+      NextEvent,
+      MoreEvent
     },
     data (){
       return {

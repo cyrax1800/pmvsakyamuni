@@ -9,6 +9,27 @@
   margin: 0 6px;
 }
 
+.pmv-hr-line{
+  margin: 0;
+}
+
+.pmv-hr-small-line{
+  border-style: none;
+  border-width: 0;
+  margin: 0px auto 30px;
+  background-color: #bbb;
+  width: 100px;
+  height: 5px;
+}
+
+.pmv-card-margin{
+  margin: auto 20px;
+}
+
+.facebook-color{
+  color: #3b5998 !important;
+}
+
 /*.pmv-text {
   font-size: 20px;
   font-weight: 40;

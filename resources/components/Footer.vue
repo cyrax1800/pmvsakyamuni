@@ -19,7 +19,7 @@
           <div class="column">
             <h1 class="title">Find Us</h1>
             <p class="pmv-social-icons">
-              <a href=""><span class="icon is-large pmv-icon-social"><i class="fa fa-facebook-official"></i></span></a>
+              <a href=""><span class="icon is-large pmv-icon-social facebook-color"><i class="fa fa-facebook-official"></i></span></a>
               <a href=""><span class="icon is-large pmv-icon-social"><i class="fa fa-instagram"></i></span></a>
             </p>
           </div>
