@@ -8,7 +8,7 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'Adonuxt',
+    title: 'PMV Sakyamuni',
     meta: [
       {
         charset: 'utf-8'
