@@ -5,7 +5,7 @@
 
     <!-- untuk desktop -->
     <div class="columns is-centered">
-      <div class="column is-one-quarter-fullhd is-one-third-desktop">
+      <!-- <div class="column is-one-quarter-fullhd is-one-third-desktop">
         <div class="card">
           <header class="card-header">
             <p class="card-header-title">Kedai Dhamma (Gadget)</p>
@@ -32,7 +32,7 @@
             <a class="card-footer-item"><span class="icon is-small has-text-primary"><i class="fa fa-users"></i></span> Volunteer</a>
           </footer>
         </div>
-      </div>
+      </div> -->
       <div class="column is-one-quarter-fullhd is-one-third-desktop">
         <div class="card">
           <header class="card-header">

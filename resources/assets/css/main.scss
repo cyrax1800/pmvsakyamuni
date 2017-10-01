@@ -43,3 +43,11 @@ $primary: $pmvColor;
   padding-top: auto !important;
   padding-bottom: auto !important;
 }
+
+.pmv-brosur-image{
+  width: 40%;
+
+  @include touch() {
+    width: 100%;
+  }
+}

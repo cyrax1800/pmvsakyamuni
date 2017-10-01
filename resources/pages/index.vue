@@ -41,8 +41,8 @@
     data (){
       return {
         nextEvent: {
-          date : 'September 17, 2017',
-          timeStamp : 1505635200
+          date : 'October 14, 2017',
+          timeStamp : 1507978800
         }
       }
     }

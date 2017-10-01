@@ -11,15 +11,15 @@
             <p>UPCOMING EVENT</p>
           </div>
         </div>
-        <h3 class="title is-3 has-text-centered">Kedai Dhamma</h3>
-        <h3 class="subtitle is-3 has-text-centered">The Gadget</h3>
+        <h3 class="title is-3 has-text-centered">Kathina Dana</h3>
+        <h3 class="subtitle is-3 has-text-centered">2561 BE/2017</h3>
       </div>
       <hr class="pmv-hr-line"/>
       <div class="column is-one-quarter v-center">
         <div class="columns is-mobile">
           <div class="column">
-            <p><span class="icon has-text-primary"><i class="fa fa-calendar"></i></span> Minggu, 17 September 2017</p>
-            <p><span class="icon has-text-primary"><i class="fa fa-clock-o"></i></span> 15.00 WIB - Selesai</p>
+            <p><span class="icon has-text-primary"><i class="fa fa-calendar"></i></span> Sabtu, 14 Oktober 2017</p>
+            <p><span class="icon has-text-primary"><i class="fa fa-clock-o"></i></span> 18.00 WIB - Selesai</p>
             <p><span class="icon has-text-primary"><i class="fa fa-map-marker"></i></span> Jl. Metal II No.12 / 76, Tanjung Mulia – Medan 20241</p>
             <br class="is-hidden-mobile">
             <a class="button is-info is-fullwidth is-hidden-mobile">See Details</a>
