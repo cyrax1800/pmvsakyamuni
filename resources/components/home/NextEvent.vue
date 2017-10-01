@@ -22,7 +22,7 @@
             <p><span class="icon has-text-primary"><i class="fa fa-clock-o"></i></span> 18.00 WIB - Selesai</p>
             <p><span class="icon has-text-primary"><i class="fa fa-map-marker"></i></span> Jl. Metal II No.12 / 76, Tanjung Mulia – Medan 20241</p>
             <br class="is-hidden-mobile">
-            <a class="button is-info is-fullwidth is-hidden-mobile">See Details</a>
+            <nuxt-link to="/event/kathina2017" class="button is-info is-fullwidth is-hidden-mobile">See Details</nuxt-link>
           </div>
         </div>
       </div>

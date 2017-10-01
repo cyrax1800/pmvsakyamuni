@@ -55,7 +55,7 @@
             </div>
           </div>
           <footer class="card-footer">
-            <a class="card-footer-item"><span class="icon is-small has-text-primary"><i class="fa fa-file-text-o"></i></span> Detail</a>
+            <nuxt-link to="/event/kathina2017" class="card-footer-item"><span class="icon is-small has-text-primary"><i class="fa fa-file-text-o"></i></span> Detail</nuxt-link>
             <a class="card-footer-item"><span class="icon is-small has-text-primary"><i class="fa fa-money"></i></span> Donate</a>
             <a class="card-footer-item"><span class="icon is-small has-text-primary"><i class="fa fa-users"></i></span> Volunteer</a>
           </footer>
