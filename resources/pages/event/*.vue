@@ -1,3 +1,4 @@
+{{{{raw}}}}
 <template>
   <div>
     <my-navbar/>
@@ -70,11 +71,17 @@
     </section>
   </div>
 </template>
+{{{{/raw}}}}
 
 <script>
   import MyNavbar from '~/components/Navbar.vue'
 
   export default {
+    head () {
+      return {
+        title: `Kathina 2561 BE / 2017`
+      }
+    },
     components: {
       MyNavbar
     },
