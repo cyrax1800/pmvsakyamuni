@@ -82,6 +82,11 @@
         title: `Kathina 2561 BE / 2017`
       }
     },
+    mounted() {
+        window.setInterval(() => {
+          Math.trunc((new Date()).getTime() / 1000);
+        },1000);
+      },
     components: {
       MyNavbar
     },
