@@ -46,7 +46,7 @@
              <p class="pmv-text">Seconds</p>
           </div>
         </div>
-        <a class="button is-info is-fullwidth is-hidden-desktop">See Details</a>
+        <nuxt-link to="/event/kathina2017" class="button is-info is-fullwidth is-hidden-desktop">See Details</nuxt-link>
       </div>
     </div>
   </div>
