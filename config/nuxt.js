@@ -50,5 +50,13 @@ module.exports = {
   /**
   *  Plugins
   */
-  plugins: [{src:'~/plugins/vue-carousel', ssr: false}, '~/plugins/filters']
+  plugins: [{ src: '~/plugins/vue-carousel', ssr: false }, '~/plugins/filters'],
+
+  build: {
+    postcss: {
+      plugins: {
+        'postcss-custom-properties': false
+      }
+    }
+  }
 }
